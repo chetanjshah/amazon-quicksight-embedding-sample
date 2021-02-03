@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "amazon-cognito-identity-js": "^3.0.5",
+    "amazon-cognito-identity-js": "^3.3.3",
     "aws-sdk": "^2.361.0",
     "node-fetch": "^2.3.0"
   }
